@@ -1,0 +1,38 @@
+# Blender MTL File: 'island_tree_01_4k.blend'
+# Material Count: 3
+
+newmtl island_tree_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\andri\\Downloads\\island_tree_01_4k.blend\\textures\\island_tree_01_nor_gl_4k.exr
+map_Kd C:\\Users\\andri\\Downloads\\island_tree_01_4k.blend\\textures\\island_tree_01_diff_4k.jpg
+map_Ns C:\\Users\\andri\\Downloads\\island_tree_01_4k.blend\\textures\\island_tree_01_rough_4k.exr
+
+newmtl island_tree_01_branches
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.205000 0.205000 0.205000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 C:\\Users\\andri\\Downloads\\island_tree_01_4k.blend\\textures\\island_tree_01_branches_nor_gl_4k.png
+map_Kd C:\\Users\\andri\\Downloads\\island_tree_01_4k.blend\\textures\\island_tree_01_branches_diff_4k.png
+map_Ns C:\\Users\\andri\\Downloads\\island_tree_01_4k.blend\\textures\\island_tree_01_branches_rough_4k.png
+
+newmtl island_tree_01_leaves
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.464639 0.800000 0.187849
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
